@@ -1,0 +1,1 @@
+/bin/c++  -g  -rdynamic CMakeFiles/TestOneDProblem.dir/TestOneDProblem.cpp.o  -o TestOneDProblem 
