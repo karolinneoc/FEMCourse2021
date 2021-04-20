@@ -1,0 +1,11 @@
+# Common IDEs configuration
+.vscode
+.vs
+.idea
+
+# MacOS system
+.DS_Store
+*.icloud
+
+# Other
+build
